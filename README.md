@@ -1,4 +1,4 @@
-# lv-datetime
+# lv-date-time
 
 LabVIEW date-time utility library.
 
